@@ -3,6 +3,8 @@ A 5x5 macro-pad/keyboard with two encoders using the Arduino pro micro(atmega32u
 
 ![Image](https://github.com/LennartEd/Arduino-pro-micro-macro-pad-5x5/blob/main/Macropad.jpg)
 
+This is my first big project and the repository was thrown together quickly so if you see any errors or have questions just send me a message.
+
 PARTS:
 25x Keys (I used cherry black)
 25x Keycaps (I used ones from an old keyboard)
